@@ -7,7 +7,8 @@
     "deploy": "wrangler deploy --minify"
   },
   "dependencies": {
-    "hono": "^4.6.12"
+    "hono": "^4.6.12",
+    "eventsource-parser": "^1.1.2"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20241112.0",
